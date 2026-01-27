@@ -4,7 +4,7 @@
 <div class="container">
   <div class="row">
     <div class="col-6 text-center offset-md-3">
-      <img src=/assets/images/bee_logo_white.png alt="Bee framework" class="img-fluid" style="width: 200px;">
+      <img src=/cursos/bee2/assets/images/bee_logo_white.png alt="Bee framework" class="img-fluid" style="width: 200px;">
       <h2 class="text-white mt-5 mb-3"><span class="text-warning">Bee</span> framework</h2>
       <p class="text-center text-white">Un framework hecho en casa, con pasión y mucho cariño. Ligero, rápido y personalizable. Úsalo como gustes, en tus proyectos personales o profesionales.</p>
       <ul class="text-white">
