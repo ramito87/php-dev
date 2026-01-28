@@ -10,7 +10,7 @@
       <ul class="text-white">
         <li>Desarrollado con PHP, Javascript y HTML5</li>
         <li>Utilizando patrón <b>MVC</b></li>
-        <li><b>100%</b> personalizable y escalable</li>
+        <li><b>100%</b> personalizable y escalable prueba desde windows</li>
       </ul>
       <div class="mt-5">
         <a class="btn btn-warning btn-lg" href="#">Probar</a>
