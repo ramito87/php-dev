@@ -3,7 +3,7 @@
 
 //Para saber si estamos en servidor local o en produccion
 define('IS_LOCAL', in_array($_SERVER['REMOTE_ADDR'], ['127.0.0.1', '::1']));
-define ('URL', (IS_LOCAL ? 'http://127.0.0.1:8848/php-dev/proyectos/jostick_cotizador/' : 'https://mi-sitio-produccion.com'));
+define ('URL', (IS_LOCAL ? 'http://127.0.0.1:8848/proyectos/jostick_cotizador/' : 'https://mi-sitio-produccion.com'));
 
 
 //rutas para carpetas
